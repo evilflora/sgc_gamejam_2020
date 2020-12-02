@@ -94,3 +94,4 @@ Plugins/*/Intermediate/*
 DerivedDataCache/*
 21-11-2020/WindowsNoEditor/sgc_gamejam_2020/Content/Paks/sgc_gamejam_2020-WindowsNoEditor.pak
 *.psd
+*.HDR
